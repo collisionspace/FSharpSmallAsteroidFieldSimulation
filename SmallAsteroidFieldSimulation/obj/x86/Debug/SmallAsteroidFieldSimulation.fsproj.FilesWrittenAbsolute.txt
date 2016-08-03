@@ -1,0 +1,10 @@
+/Users/slonej3/Projects/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Projects/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/bin/Debug/SmallAsteroidFieldSimulation.exe.mdb
+/Users/slonej3/Projects/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/bin/Debug/SmallAsteroidFieldSimulation.exe
+/Users/slonej3/Projects/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/obj/x86/Debug/SmallAsteroidFieldSimulation.exe
+/Users/slonej3/Projects/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/obj/x86/Debug/SmallAsteroidFieldSimulation.exe.mdb
+/Users/slonej3/Desktop/Projects/F#/Ch3&4/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Desktop/Projects/F#/Ch3&4/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/bin/Debug/SmallAsteroidFieldSimulation.exe.mdb
+/Users/slonej3/Desktop/Projects/F#/Ch3&4/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/bin/Debug/SmallAsteroidFieldSimulation.exe
+/Users/slonej3/Desktop/Projects/F#/Ch3&4/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/obj/x86/Debug/SmallAsteroidFieldSimulation.exe
+/Users/slonej3/Desktop/Projects/F#/Ch3&4/SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation/obj/x86/Debug/SmallAsteroidFieldSimulation.exe.mdb

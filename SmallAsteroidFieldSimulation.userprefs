@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="SmallAsteroidFieldSimulation/SmallAsteroidFieldSimulation.fsproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmallAsteroidFieldSimulation/Program.fs">
+    <Files>
+      <File FileName="SmallAsteroidFieldSimulation/Program.fs" Line="335" Column="40" />
+      <File FileName="SmallAsteroidFieldSimulation/Math.fs" Line="140" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SmallAsteroidFieldSimulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
